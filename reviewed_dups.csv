@@ -1,0 +1,959 @@
+﻿change_indicator,pre_review,post_review,possible_matches
+0,007 ranch,007 ranch,{'7z ranch'}
+0,6 ranch,6 ranch,{'96 ranch'}
+0,7 bar ranch,7 bar ranch,"{'bar 97 ranch', 'b bar b ranch', 'a h bar ranch'}"
+0,7 f ranch,7 f ranch,{'7z ranch'}
+0,7 mile creek ranch,7 mile creek ranch,"{'pine creek ranch', 'mill creek ranch'}"
+0,7z ranch,7z ranch,"{'007 ranch', 'iz ranch', '7 f ranch'}"
+0,96 ranch,96 ranch,{'6 ranch'}
+0,a h bar ranch,a h bar ranch,{'7 bar ranch'}
+0,a k ranch,a k ranch,"{'kv bar ranch', 'akal ranch'}"
+0,adel water improvement district,adel water improvement district,"{'devils lake water improvement district', 'badger improvement district'}"
+0,adrian school district,adrian school district,"{'astoria school district', 'school district 9', 'condon school district', 'creslane school district'}"
+0,agency ranch,agency ranch,"{'page ranch', 'gentry ranch'}"
+0,akal ranch,akal ranch,{'a k ranch'}
+0,alsea watershed council,alsea watershed council,"{'clatsop watershed council', 'chetco watershed council', 'calapooia watershed council', 'coquille watershed council'}"
+0,amar properties,amar properties,{'avery properties'}
+0,andersen ranches,andersen ranches,"{'andre ranches', 'anderson ranches', 'anderson ranch'}"
+0,andre ranches,andre ranches,"{'anderson ranches', 'd r ranches', 'andersen ranches'}"
+0,ap timber llc,ap timber llc,{'evans timber llc'}
+0,arnold irrigation district,arnold irrigation district,"{'south board irrigation district', 'dee irrigation district'}"
+0,arriens ranch,arriens ranch,{'harrison ranch'}
+0,ashland high school,ashland high school,"{'bandon high school', 'dallas high school'}"
+0,astoria school district,astoria school district,{'adrian school district'}
+0,audubon society,audubon society,{'salem audubon society'}
+0,avery properties,avery properties,{'amar properties'}
+0,avila farms,avila farms,{'arriola farms'}
+0,b bar b ranch,b bar b ranch,{'7 bar ranch'}
+0,badger improvement district,badger improvement district,"{'adel water improvement district', 'big butte district improvement'}"
+0,baker county parks department,baker county parks department,"{'columbia county parks department', 'baker county road department'}"
+0,baker county road department,baker county road department,"{'baker county parks department', 'coos county road department', 'columbia county road department', 'clackamas county road department', 'columbia county roads department'}"
+0,baker valley irrigation district,baker valley irrigation district,{'swalley irrigation district'}
+0,bandon high school,bandon high school,{'ashland high school'}
+0,banks elementary school,banks elementary school,{'bonanza elementary school'}
+0,bar 97 ranch,bar 97 ranch,{'7 bar ranch'}
+0,bear creek ranch,bear creek ranch,"{'bridge creek ranch', 'clover creek ranch', 'boulder creek ranch', 'berry creek ranch', 'clear creek ranch'}"
+0,bear creek watershed council,bear creek watershed council,"{'trout creek watershed council', 'little butte creek watershed council', 'deep creek watershed council', 'evans creek watershed council', 'ecola creek watershed council', 'bridge creek watershed council', 'tryon creek watershed council', 'elk creek watershed council'}"
+0,benton county public works,benton county public works,{'clatsop county public works'}
+0,bergerson construction,bergerson construction,{'baertlein construction'}
+0,berrett ranch,berrett ranch,"{'burnette ranch', 'garrett ranch', 'betts ranch'}"
+0,berry creek ranch,berry creek ranch,"{'cable creek ranch', 'clear creek ranch', 'boulder creek ranch', 'bear creek ranch'}"
+0,betts ranch,betts ranch,"{'berrett ranch', 'bettis ranches'}"
+0,bg cattle company,bg cattle company,{'c2 cattle company'}
+0,big butte district improvement,big butte district improvement,{'badger improvement district'}
+0,bloomer ranches inc,bloomer ranches inc,{'foster ranches inc'}
+0,bob hockema construction,bob hockema construction,"{'john hockema construction', 'oakes bros construction'}"
+0,bonanza elementary school,bonanza elementary school,{'banks elementary school'}
+0,boulder creek ranch,boulder creek ranch,"{'clover creek ranch', 'bear creek ranch', 'berry creek ranch', 'clear creek ranch', 'couse creek ranch', 'cable creek ranch'}"
+0,bowerman ranch,bowerman ranch,{'bowers ranch'}
+0,bowers ranch,bowers ranch,{'bowerman ranch'}
+0,britten ranch,britten ranch,{'burnette ranch'}
+0,brown ranch,brown ranch,{'crown ranch'}
+0,bunch ranch,bunch ranch,"{'bush ranch', 'buchler ranch'}"
+0,burnette ranch,burnette ranch,"{'berrett ranch', 'britten ranch'}"
+0,bush ranch,bush ranch,"{'bunch ranch', 'buhler ranch'}"
+0,butler ranches,butler ranches,"{'buhler ranch', 'buchler ranch'}"
+0,butte falls high school,butte falls high school,{'falls city high school'}
+0,c2 cattle company,c2 cattle company,{'bg cattle company'}
+0,cable creek ranch,cable creek ranch,"{'clover creek ranch', 'boulder creek ranch', 'berry creek ranch', 'colemen creek ranch', 'clear creek ranch', 'couse creek ranch'}"
+0,calapooia watershed council,calapooia watershed council,"{'clatsop watershed council', 'alsea watershed council'}"
+0,cavalier homeowners association,cavalier homeowners association,{'cedar lake homeowners association'}
+0,cc r ranch,cc r ranch,{'r r ranch'}
+0,cedar lake homeowners association,cedar lake homeowners association,{'cavalier homeowners association'}
+0,centennial school district,centennial school district,{'central school district 13j'}
+0,central curry school district,central curry school district,{'central school district 13j'}
+0,central high school,central high school,"{'crater high school', 'glendale high school'}"
+0,central school district 13j,central school district 13j,"{'central curry school district', 'centennial school district'}"
+0,chetco watershed council,chetco watershed council,"{'clatsop watershed council', 'alsea watershed council'}"
+0,city of albany,city of albany,{'city of ashland'}
+0,city of ashland,city of ashland,{'city of albany'}
+0,city of baker city,city of baker city,{'city of bay city'}
+0,city of bandon,city of bandon,{'city of bend'}
+0,city of bay city,city of bay city,"{'city of coos bay', 'city of baker city'}"
+0,city of beaverton,city of beaverton,{'city of carlton'}
+0,city of bend,city of bend,{'city of bandon'}
+0,city of carlton,city of carlton,{'city of beaverton'}
+0,city of coos bay,city of coos bay,{'city of bay city'}
+0,city of cornelius,city of cornelius,{'city of corvallis'}
+0,city of corvallis,city of corvallis,{'city of cornelius'}
+0,city of dallas,city of dallas,"{'city of molalla', 'city of the dalles'}"
+0,city of dufur,city of dufur,{'city of durham'}
+0,city of durham,city of durham,"{'city of gresham', 'city of dufur'}"
+0,city of fairview public works,city of fairview public works,{'city of madras public works'}
+0,city of gresham,city of gresham,{'city of durham'}
+0,city of lakeside,city of lakeside,"{'city of oakridge', 'city of lakeside pw'}"
+0,city of lakeside pw,city of lakeside pw,{'city of lakeside'}
+0,city of madras public works,city of madras public works,{'city of fairview public works'}
+0,city of medford parks recreation department,city of medford parks recreation department,{'oregon parks recreation department'}
+0,city of molalla,city of molalla,{'city of dallas'}
+0,city of oakridge,city of oakridge,{'city of lakeside'}
+0,city of prineville,city of prineville,{'city of wilsonville'}
+0,city of salem,city of salem,{'city of talent'}
+0,city of talent,city of talent,{'city of salem'}
+0,city of the dalles,city of the dalles,{'city of dallas'}
+0,city of wilsonville,city of wilsonville,{'city of prineville'}
+0,clackamas county,clackamas county,{'clackamas county parks'}
+0,clackamas county juvenile department,clackamas county juvenile department,{'clackamas county road department'}
+0,clackamas county parks,clackamas county parks,{'clackamas county'}
+0,clackamas county road department,clackamas county road department,"{'clackamas county juvenile department', 'coos county road department', 'baker county road department', 'columbia county road department', 'columbia county roads department'}"
+0,clatsop county public works,clatsop county public works,{'benton county public works'}
+0,clatsop watershed council,clatsop watershed council,"{'chetco watershed council', 'calapooia watershed council', 'alsea watershed council'}"
+0,clear creek ranch,clear creek ranch,"{'clover creek ranch', 'boulder creek ranch', 'berry creek ranch', 'bear creek ranch', 'colemen creek ranch', 'couse creek ranch', 'cable creek ranch'}"
+0,clover creek ranch,clover creek ranch,"{'boulder creek ranch', 'bear creek ranch', 'colemen creek ranch', 'cochran creek ranch', 'clear creek ranch', 'couse creek ranch', 'cable creek ranch'}"
+0,cochran creek ranch,cochran creek ranch,{'clover creek ranch'}
+0,cole ranch,cole ranch,"{'mobley ranch', 'olsen ranch', 'copley ranch'}"
+0,colemen creek ranch,colemen creek ranch,"{'clover creek ranch', 'clear creek ranch', 'cable creek ranch', 'couse creek ranch'}"
+0,columbia county parks department,columbia county parks department,"{'columbia county roads and parks department', 'columbia county road department', 'baker county parks department', 'columbia county roads department'}"
+0,condon school district,condon school district,"{'school district 9', 'adrian school district'}"
+0,coos county highway department,coos county highway department,"{'coos county road department', 'coos county planning department'}"
+0,coos county planning department,coos county planning department,"{'coos county road department', 'coos county highway department'}"
+0,coos county road department,coos county road department,"{'lake county road department', 'coos county planning department', 'linn county road department', 'baker county road department', 'columbia county road department', 'coos county highway department', 'lane county road department', 'clackamas county road department', 'columbia county roads department'}"
+0,coos river step association,coos river step association,{'millicoma river step association'}
+0,coos swcd,coos swcd,{'crook swcd'}
+0,coos watershed association,coos watershed association,"{'coquille watershed association', 'north coast watershed association'}"
+0,copley ranch,copley ranch,"{'mobley ranch', 'cole ranch'}"
+0,coquille watershed association,coquille watershed association,{'coos watershed association'}
+0,coquille watershed council,coquille watershed council,{'alsea watershed council'}
+0,cottage grove high school,cottage grove high school,{'forest grove high school'}
+0,council volunteers,council volunteers,"{'community volunteers', 'volunteers community'}"
+0,county parks,county parks,"{'linn county parks', 'lane county parks'}"
+0,courtney ranches llc,courtney ranches llc,{'forth ranches llc'}
+0,couse creek ranch,couse creek ranch,"{'clover creek ranch', 'boulder creek ranch', 'colemen creek ranch', 'clear creek ranch', 'cable creek ranch'}"
+0,crater high school,crater high school,{'central high school'}
+0,creslane school district,creslane school district,{'adrian school district'}
+0,crook county road department,crook county road department,{'curry county road department'}
+0,crook swcd,crook swcd,{'coos swcd'}
+0,crook timberlands llc,crook timberlands llc,{'plum creek timberlands llc'}
+0,crooked river watershed council,crooked river watershed council,"{'pringle creek watershed council', 'mckenzie watershed council', 'silver lake watershed council', 'pudding river watershed council', 'marys river watershed council'}"
+0,crown ranch,crown ranch,{'brown ranch'}
+0,curry county corrections,curry county corrections,{'marion county corrections'}
+0,curry county road department,curry county road department,{'crook county road department'}
+0,curry weed advisory board,curry weed advisory board,{'coos county weed advisory board'}
+0,dalton ranch limited partnership,dalton ranch limited partnership,{'reed ranch limited partnership'}
+0,damon ranch,damon ranch,"{'diamond x ranch', 'morin ranch', 'k diamond ranch'}"
+0,davidson ranches,davidson ranches,"{'anderson ranches', 'harrison ranches'}"
+0,dee irrigation district,dee irrigation district,"{'squaw creek irrigation district', 'arnold irrigation district'}"
+0,deep creek watershed council,deep creek watershed council,"{'pringle creek watershed council', 'trout creek watershed council', 'mckenzie watershed council', 'evans creek watershed council', 'ecola creek watershed council', 'johnson creek watershed council', 'fairview creek watershed council', 'floras creek watershed council', 'bear creek watershed council', 'tryon creek watershed council', 'elk creek watershed council'}"
+0,deer creek elementary school,deer creek elementary school,{'riley creek elementary school'}
+0,deschutes county,deschutes county,{'deschutes county odot'}
+0,deschutes county odot,deschutes county odot,{'deschutes county'}
+0,deschutes county road department,deschutes county road department,"{'lane county road department', 'malheur county road department', 'lake county road department'}"
+0,deschutes county watershed council,deschutes county watershed council,"{'upper deschutes watershed council', 'lake county watershed council', 'lake county watershed councils'}"
+0,deschutes river conservancy,deschutes river conservancy,{'deschutes resources conservancy'}
+0,devils lake water improvement district,devils lake water improvement district,{'adel water improvement district'}
+0,diamond x ranch,diamond x ranch,"{'damon ranch', 'k diamond ranch', 'white diamond ranch'}"
+0,double k ranch,double k ranch,{'double r ranch'}
+0,double r ranch,double r ranch,{'double k ranch'}
+0,douglas county parks department,douglas county parks department,{'josephine county parks department'}
+0,douglas county public works,douglas county public works,"{'lane county public works', 'polk county public works'}"
+0,douglas forest protection association,douglas forest protection association,{'coos forest protection association'}
+0,dtl logging,dtl logging,{'l s d logging'}
+0,east fork irrigation district,east fork irrigation district,{'hermiston irrigation district'}
+0,ecola creek watershed council,ecola creek watershed council,"{'pringle creek watershed council', 'trout creek watershed council', 'deep creek watershed council', 'evans creek watershed council', 'johnson creek watershed council', 'fairview creek watershed council', 'floras creek watershed council', 'bear creek watershed council', 'tryon creek watershed council', 'elk creek watershed council'}"
+0,elk creek watershed council,elk creek watershed council,"{'pringle creek watershed council', 'trout creek watershed council', 'willow creek watershed council', 'deep creek watershed council', 'evans creek watershed council', 'rickreall watershed council', 'bridge creek watershed council', 'ecola creek watershed council', 'johnson creek watershed council', 'fairview creek watershed council', 'floras creek watershed council', 'bear creek watershed council', 'tryon creek watershed council'}"
+0,elk meadows homeowners association,elk meadows homeowners association,{'river meadows homeowners association'}
+0,elk sixes watershed council,elk sixes watershed council,"{'evans creek watershed council', 'silver lake watershed council', 'mosier watershed council', 'siuslaw watershed council', 'nehalem watershed council'}"
+0,ernst ranch,ernst ranch,"{'keerins ranch', 'perkins ranch'}"
+0,evans creek watershed council,evans creek watershed council,"{'pringle creek watershed council', 'trout creek watershed council', 'deep creek watershed council', 'ecola creek watershed council', 'johnson creek watershed council', 'fairview creek watershed council', 'elk sixes watershed council', 'floras creek watershed council', 'bear creek watershed council', 'tryon creek watershed council', 'elk creek watershed council'}"
+0,evans timber llc,evans timber llc,{'ap timber llc'}
+0,fairview creek watershed council,fairview creek watershed council,"{'pringle creek watershed council', 'trout creek watershed council', 'deep creek watershed council', 'evans creek watershed council', 'ecola creek watershed council', 'floras creek watershed council', 'tryon creek watershed council', 'elk creek watershed council'}"
+0,falls city high school,falls city high school,{'butte falls high school'}
+0,farmers irrigation district,farmers irrigation district,{'hermiston irrigation district'}
+0,fate creek ranch,fate creek ranch,"{'pine creek ranch', 'ferris creek ranch', 'french creek ranch', 'fence creek ranch'}"
+0,felder ranch,felder ranch,{'fields ranch'}
+0,fence creek ranch,fence creek ranch,"{'pine creek ranch', 'fate creek ranch', 'french creek ranch'}"
+0,ferris creek ranch,ferris creek ranch,{'fate creek ranch'}
+0,ferris lumber,ferris lumber,{'freres lumber'}
+0,fields ranch,fields ranch,{'felder ranch'}
+0,floras creek watershed council,floras creek watershed council,"{'pringle creek watershed council', 'trout creek watershed council', 'salmon drift creek watershed council', 'deep creek watershed council', 'evans creek watershed council', 'salmon drift creek watersheds council', 'ecola creek watershed council', 'fairview creek watershed council', 'johnson creek watershed council', 'tryon creek watershed council', 'elk creek watershed council'}"
+0,fluitt family farms,fluitt family farms,{'smith family farms'}
+0,forest grove high school,forest grove high school,{'cottage grove high school'}
+0,forth ranches llc,forth ranches llc,{'courtney ranches llc'}
+0,foster ranches inc,foster ranches inc,{'bloomer ranches inc'}
+0,french creek ranch,french creek ranch,"{'fate creek ranch', 'fence creek ranch'}"
+0,freres lumber,freres lumber,{'ferris lumber'}
+0,friends of eagle creek,friends of eagle creek,"{'friends of fields creek', 'friends of fox creek'}"
+0,friends of fields creek,friends of fields creek,"{'friends of eagle creek', 'friends of fox creek'}"
+0,friends of fox creek,friends of fox creek,"{'friends of eagle creek', 'friends of fields creek'}"
+0,froerer farms,froerer farms,{'froese farms'}
+0,froese farms,froese farms,{'froerer farms'}
+0,galvez orchards,galvez orchards,{'dahle orchards'}
+0,garrett construction,garrett construction,"{'harper construction', 'pardue construction', 'green construction'}"
+0,garrett ranch,garrett ranch,{'berrett ranch'}
+0,gentry ranch,gentry ranch,"{'agency ranch', 'gray ranch'}"
+0,gilliam county road department,gilliam county road department,"{'lake county road department', 'grant county road department', 'linn county road department', 'lincoln county road department', 'lane county road department', 'gilliam county weed department'}"
+0,gilliam county weed department,gilliam county weed department,"{'umatilla county weed department', 'wallowa county weed department', 'gilliam county road department', 'wasco county weed department'}"
+0,glaney ranches llc,glaney ranches llc,"{'glavey ranches llc', 'glavey ranches'}"
+0,glendale high school,glendale high school,"{'glide high school', 'central high school'}"
+0,glide high school,glide high school,"{'glide junior high school', 'glendale high school'}"
+0,glide junior high school,glide junior high school,{'glide high school'}
+0,gm ranch llc,gm ranch llc,"{'king ranch llc', 'iz ranch llc', 'kamph ranch llc'}"
+0,golden valley farms,golden valley farms,{'golden valley farms east'}
+0,goose lake watershed council,goose lake watershed council,"{'owyhee watershed council', 'mosier watershed council', 'lake county watershed council', 'lake county watershed councils'}"
+0,grand oaks neighborhood association,grand oaks neighborhood association,"{'sw oaks creek neighborhood association', 'neighborhood association'}"
+0,grant county road department,grant county road department,"{'malheur county road department', 'jefferson county road department', 'lake county road department', 'linn county road department', 'lincoln county road department', 'lane county road department', 'gilliam county road department'}"
+0,grant county weed control,grant county weed control,"{'crook county weed control', 'klamath county weed control', 'morrow county weed control', 'umatilla county weed control', 'union county weed control', 'wallowa county weed control'}"
+0,grass valley watershed council,grass valley watershed council,{'illinois valley watershed council'}
+0,green construction,green construction,"{'harper construction', 'pardue construction', 'garrett construction'}"
+0,h r consulting,h r consulting,"{'irz consulting', 'rabe consulting'}"
+0,hadley ranch,hadley ranch,{'hall ranch'}
+0,hall ranch,hall ranch,"{'hadley ranch', 'hill ranches'}"
+0,hancock forest products,hancock forest products,{'lane forest products'}
+0,happy valley heights homeowners association,happy valley heights homeowners association,{'valley heights home owners association'}
+0,harmon family limited partnership,harmon family limited partnership,{'hardie family partnership'}
+0,harney county,harney county,{'lane county'}
+0,harney county cooperative weed management area,harney county cooperative weed management area,"{'josephine county cooperative weed management area', 'jackson county cooperative weed management area', 'lake county cooperative weed management area', 'juntura cooperative weed management area', 'tri county cooperative weed management area'}"
+0,harney county watershed council,harney county watershed council,"{'lake county umbrella watershed council', 'sherman county area watershed council', 'lake county watershed council', 'lake county watershed councils'}"
+0,harper construction,harper construction,"{'haley construction', 'garrett construction', 'hatley construction', 'pardue construction', 'green construction'}"
+0,hatley construction,hatley construction,"{'haley construction', 'jal construction', 'haley construction co inc', 'harper construction', 'lemax construction', 'mowat construction'}"
+0,hawkins cattle company,hawkins cattle company,"{'shaniko cattle company', 'martin cattle company', 'hotchkiss cattle company'}"
+0,hayes ranch,hayes ranch,{'hess ranch'}
+0,hbh consulting engineers,hbh consulting engineers,{'obec consulting engineer'}
+0,helle ranches,helle ranches,{'hill ranches'}
+0,helman elementary school,helman elementary school,{'misc elementary school'}
+0,henry enterprises,henry enterprises,{'stien enterprises'}
+0,hermiston irrigation district,hermiston irrigation district,"{'hudson bay irrigation district', 'farmers irrigation district', 'east fork irrigation district'}"
+0,hess ranch,hess ranch,{'hayes ranch'}
+0,hmjs tree farm,hmjs tree farm,{'j2e tree farm'}
+0,hood river county,hood river county,{'hood river county parks'}
+0,hood river county parks,hood river county parks,{'hood river county'}
+0,hotchkiss cattle company,hotchkiss cattle company,{'hawkins cattle company'}
+0,hudson bay irrigation district,hudson bay irrigation district,{'hermiston irrigation district'}
+0,illinois valley watershed council,illinois valley watershed council,{'grass valley watershed council'}
+0,indian creek ranch,indian creek ranch,"{'pine creek ranch', 'jordan creek ranch'}"
+0,irz consulting,irz consulting,"{'h r consulting', 'rabe consulting'}"
+0,izee ranch,izee ranch,"{'pierce ranch', 'iz ranch'}"
+0,j bar s ranch,j bar s ranch,{'q bar x ranch'}
+0,j m ranch llc,j m ranch llc,"{'l m ranch', 'jdr ranch llc'}"
+0,j2e tree farm,j2e tree farm,{'hmjs tree farm'}
+0,jackies butte cattle association,jackies butte cattle association,{'saddle butte cattle association'}
+0,jackson county,jackson county,"{'jackson county parks', 'jackson county roads'}"
+0,jackson county cooperative weed management area,jackson county cooperative weed management area,"{'josephine county cooperative weed management area', 'harney county cooperative weed management area', 'lake county cooperative weed management area', 'juntura cooperative weed management area', 'tri county cooperative weed management area'}"
+0,jackson county corrections,jackson county corrections,{'marion county corrections'}
+0,jackson county parks,jackson county parks,"{'jackson county roads', 'lane county parks', 'jackson county'}"
+0,jackson county planning department,jackson county planning department,{'josephine county planning department'}
+0,jackson county roads,jackson county roads,"{'jackson county parks', 'jackson county'}"
+0,jal construction,jal construction,"{'hatley construction', 'haley construction', 'lemax construction', 'mowat construction'}"
+0,jdr ranch llc,jdr ranch llc,{'j m ranch llc'}
+0,jefferson county,jefferson county,{'jefferson county awb'}
+0,jefferson county awb,jefferson county awb,{'jefferson county'}
+0,jefferson county public works,jefferson county public works,{'marion county public works'}
+0,johnson creek watershed council,johnson creek watershed council,"{'pringle creek watershed council', 'trout creek watershed council', 'salmon drift creek watershed council', 'deep creek watershed council', 'evans creek watershed council', 'ecola creek watershed council', 'floras creek watershed council', 'tryon creek watershed council', 'elk creek watershed council'}"
+0,jones forest products,jones forest products,"{'menasha forest products', 'lane forest products'}"
+0,jordan creek ranch,jordan creek ranch,{'indian creek ranch'}
+0,jordan valley cooperative weed management area,jordan valley cooperative weed management area,"{'tri county cooperative weed management area', 'juntura cooperative weed management area'}"
+0,jordan valley irrigation district,jordan valley irrigation district,"{'swalley irrigation district', 'langell valley irrigation district', 'vale oregon irrigation district'}"
+0,josephine county,josephine county,{'josephine county parks'}
+0,josephine county cooperative weed management area,josephine county cooperative weed management area,"{'jackson county cooperative weed management area', 'harney county cooperative weed management area', 'lake county cooperative weed management area', 'juntura cooperative weed management area', 'tri county cooperative weed management area'}"
+0,josephine county planning department,josephine county planning department,"{'josephine county parks department', 'jackson county planning department'}"
+0,josephine county public works,josephine county public works,"{'lane county public works', 'josephine county parks'}"
+0,jrs farms inc,jrs farms inc,{'mast farms inc'}
+0,juntura cooperative weed management area,juntura cooperative weed management area,"{'josephine county cooperative weed management area', 'jackson county cooperative weed management area', 'harney county cooperative weed management area', 'lake county cooperative weed management area', 'lower deschutes cooperative weed management area', 'jordan valley cooperative weed management area', 'tri county cooperative weed management area'}"
+0,k c environmental services,k c environmental services,{'marion county environmental services'}
+0,k diamond ranch,k diamond ranch,"{'diamond x ranch', 'damon ranch'}"
+0,k swartz construction,k swartz construction,{'mowat construction'}
+0,kamph ranch llc,kamph ranch llc,{'gm ranch llc'}
+0,keerins ranch,keerins ranch,"{'ernst ranch', 'perkins ranch'}"
+0,kennedy high school,kennedy high school,"{'sandy high school', 'mckenzie high school'}"
+0,kester family farms,kester family farms,{'smith family farms'}
+0,kiger ranch,kiger ranch,"{'kight ranch', 'miler ranch'}"
+0,kight ranch,kight ranch,{'kiger ranch'}
+0,king ranch llc,king ranch llc,"{'iz ranch llc', 'gm ranch llc'}"
+0,klamath county weed control,klamath county weed control,"{'crook county weed control', 'grant county weed control', 'wallowa county weed control', 'umatilla county weed control'}"
+0,klamath irrigation district,klamath irrigation district,"{'malin irrigation district', 'talent irrigation district', 'tumalo irrigation district'}"
+0,kuhl ranch,kuhl ranch,{'buhler ranch'}
+0,kv bar ranch,kv bar ranch,{'a k ranch'}
+0,l m ranch,l m ranch,"{'j m ranch llc', 'lx ranch'}"
+0,l s d logging,l s d logging,{'dtl logging'}
+0,lake county,lake county,"{'polk county', 'lane county'}"
+0,lake county cooperative weed management area,lake county cooperative weed management area,"{'josephine county cooperative weed management area', 'jackson county cooperative weed management area', 'harney county cooperative weed management area', 'lower deschutes cooperative weed management area', 'juntura cooperative weed management area', 'tri county cooperative weed management area'}"
+0,lake county road department,lake county road department,"{'malheur county road department', 'jefferson county road department', 'coos county road department', 'grant county road department', 'linn county road department', 'lincoln county road department', 'deschutes county road department', 'lane county road department', 'gilliam county road department'}"
+0,lake county school district,lake county school district,{'lincoln county school district'}
+0,lane county,lane county,"{'lake county', 'harney county', 'linn county'}"
+0,lane county parks,lane county parks,"{'linn county parks', 'county parks', 'jackson county parks'}"
+0,lane county public works,lane county public works,"{'josephine county public works', 'marion county public works', 'lincoln county public works', 'polk county public works', 'douglas county public works'}"
+0,lane county road department,lane county road department,"{'malheur county road department', 'jefferson county road department', 'coos county road department', 'lake county road department', 'grant county road department', 'linn county road department', 'lincoln county road department', 'deschutes county road department', 'gilliam county road department'}"
+0,lane forest products,lane forest products,"{'hancock forest products', 'jones forest products'}"
+0,langell valley irrigation district,langell valley irrigation district,"{'swalley irrigation district', 'jordan valley irrigation district'}"
+0,larson drainage district,larson drainage district,"{'drainage district', 'libby drainage district'}"
+0,lawrence ranches,lawrence ranches,{'lorenzen ranches'}
+0,lemax construction,lemax construction,"{'hatley construction', 'mowat construction', 'haley construction', 'jal construction'}"
+0,lemmon cattle co,lemmon cattle co,"{'lm cattle co', 'wilson cattle co'}"
+0,libby drainage district,libby drainage district,"{'drainage district', 'larson drainage district'}"
+0,limnes land company,limnes land company,{'m5 land company'}
+0,lincoln city,lincoln city,{'lincoln county'}
+0,lincoln county,lincoln county,"{'lincoln city', 'linn county'}"
+0,lincoln county public works,lincoln county public works,"{'marion county public works', 'lane county public works', 'polk county public works'}"
+0,lincoln county road department,lincoln county road department,"{'jefferson county road department', 'lake county road department', 'grant county road department', 'linn county road department', 'lane county road department', 'gilliam county road department'}"
+0,lincoln county school district,lincoln county school district,{'lake county school district'}
+0,lincoln swcd,lincoln swcd,{'linn swcd'}
+0,linn county,linn county,"{'lane county', 'lincoln county'}"
+0,linn county parks,linn county parks,"{'county parks', 'lane county parks'}"
+0,linn swcd,linn swcd,{'lincoln swcd'}
+0,little butte creek watershed council,little butte creek watershed council,"{'pringle creek watershed council', 'bear creek watershed council'}"
+0,loop ranch llc,loop ranch llc,{'lonerock ranch llc'}
+0,lorenzen ranches,lorenzen ranches,{'lawrence ranches'}
+0,lower deschutes cooperative weed management area,lower deschutes cooperative weed management area,"{'lake county cooperative weed management area', 'juntura cooperative weed management area'}"
+0,lower nehalem watershed council,lower nehalem watershed council,"{'upper nehalem watershed council', 'nehalem watershed council', 'lower rogue watershed council'}"
+0,lower rogue watershed council,lower rogue watershed council,"{'rogue river watershed council', 'owyhee watershed council', 'lower nehalem watershed council', 'middle rogue watershed council'}"
+0,lx ranch,lx ranch,{'l m ranch'}
+0,madras farms,madras farms,{'mast farms'}
+0,madrona stewardship,madrona stewardship,{'oregon stewardship'}
+0,malheur county road department,malheur county road department,"{'jefferson county road department', 'lake county road department', 'grant county road department', 'linn county road department', 'deschutes county road department', 'lane county road department'}"
+0,malheur watershed council,malheur watershed council,"{'klamath watershed council', 'silver lake watershed council', 'owyhee watershed council', 'marys river watershed council', 'mosier watershed council', 'the dalles watershed council', 'upper nehalem watershed council', 'nehalem watershed council'}"
+0,malin irrigation district,malin irrigation district,"{'medford irrigation district', 'westland irrigation district', 'swalley irrigation district', 'modoc point irrigation district', 'talent irrigation district', 'peoples irrigation district', 'queener irrigation district', 'stanfield irrigation district', 'tumalo irrigation district', 'klamath irrigation district'}"
+0,marion county corrections,marion county corrections,"{'curry county corrections', 'jackson county corrections'}"
+0,marion county environmental services,marion county environmental services,{'k c environmental services'}
+0,marion county public works,marion county public works,"{'jefferson county public works', 'lincoln county public works', 'morrow county public works', 'polk county public works', 'lane county public works'}"
+0,martin cattle company,martin cattle company,{'hawkins cattle company'}
+0,martin farms,martin farms,{'mast farms'}
+0,martin ranch,martin ranch,"{'mattis ranch', 'morin ranch'}"
+0,mattis ranch,mattis ranch,{'martin ranch'}
+0,mcclaran ranch,mcclaran ranch,{'mcgarva ranch'}
+0,mcd corporation,mcd corporation,{'miami corporation'}
+0,mcgarva ranch,mcgarva ranch,{'mcclaran ranch'}
+0,mckenzie high school,mckenzie high school,{'kennedy high school'}
+0,mckenzie watershed council,mckenzie watershed council,"{'mosier watershed council', 'crooked river watershed council', 'luckiamute watershed council', 'deep creek watershed council'}"
+0,mckinley elementary school,mckinley elementary school,{'misc elementary school'}
+0,medford irrigation district,medford irrigation district,"{'malin irrigation district', 'queener irrigation district', 'peoples irrigation district', 'tumalo irrigation district'}"
+0,menasha forest products,menasha forest products,{'jones forest products'}
+0,miami corporation,miami corporation,{'mcd corporation'}
+0,midcoast watersheds council,midcoast watersheds council,{'klamath watershed council'}
+0,middle deschutes watershed council,middle deschutes watershed council,{'upper deschutes watershed council'}
+0,middle fork willamette watershed council,middle fork willamette watershed council,{'coast fork willamette watershed council'}
+0,miler ranch,miler ranch,"{'miles ranch', 'kiger ranch', 'moeller ranch'}"
+0,miles ranch,miles ranch,{'miler ranch'}
+0,mill creek ranch,mill creek ranch,"{'7 mile creek ranch', 'pine creek ranch'}"
+0,millicoma river step association,millicoma river step association,{'coos river step association'}
+0,mobley ranch,mobley ranch,"{'copley ranch', 'cole ranch'}"
+0,modoc point irrigation district,modoc point irrigation district,"{'malin irrigation district', 'ochoco irrigation district'}"
+0,moe brothers,moe brothers,{'moore brothers'}
+0,moeller ranch,moeller ranch,{'miler ranch'}
+0,mohawk watershed partnership,mohawk watershed partnership,{'klamath watershed partnership'}
+0,moore brothers,moore brothers,{'moe brothers'}
+0,morin ranch,morin ranch,"{'damon ranch', 'martin ranch'}"
+0,morrow county,morrow county,{'morrow county parks'}
+0,morrow county parks,morrow county parks,{'morrow county'}
+0,morrow county public works,morrow county public works,"{'marion county public works', 'polk county public works'}"
+0,morrow county weed control,morrow county weed control,"{'crook county weed control', 'grant county weed control', 'union county weed control', 'wallowa county weed control'}"
+0,mosier watershed council,mosier watershed council,"{'mckenzie watershed council', 'silver lake watershed council', 'owyhee watershed council', 'malheur watershed council', 'siuslaw watershed council', 'elk sixes watershed council', 'goose lake watershed council', 'marys river watershed council'}"
+0,mountain meadows owners association,mountain meadows owners association,{'mountain park home owners association'}
+0,mowat construction,mowat construction,"{'k swartz construction', 'hatley construction', 'lemax construction', 'jal construction'}"
+0,necanicum watershed council,necanicum watershed council,"{'nestucca watershed council', 'nehalem watershed council'}"
+0,nestucca elementary school,nestucca elementary school,"{'nestucca valley elementary', 'misc elementary school'}"
+0,nestucca high and middle schools,nestucca high and middle schools,{'nestucca middle school'}
+0,nestucca high school,nestucca high school,{'nestucca middle school'}
+0,nestucca middle school,nestucca middle school,"{'nestucca high school', 'nestucca high and middle schools'}"
+0,north coast land conservancy,north coast land conservancy,{'south coast land conservancy'}
+0,north coast watershed association,north coast watershed association,{'coos watershed association'}
+0,north fork john day watershed council,north fork john day watershed council,"{'upper south fork john day watershed council', 'east lower john day watershed council', 'south fork john day watershed council', 'upper south fork john day river watershed council', 'mid john day watershed council'}"
+0,north fork ranch,north fork ranch,{'north fork falls ranch'}
+0,north middle school,north middle school,{'rowe middle school'}
+0,north santiam watershed council,north santiam watershed council,"{'north sherman watershed council', 'south santiam watershed council'}"
+0,north sherman watershed council,north sherman watershed council,"{'sherman county area watershed council', 'north santiam watershed council'}"
+0,oakes bros construction,oakes bros construction,"{'vinson bros construction', 'bob hockema construction'}"
+0,obec consulting engineer,obec consulting engineer,{'hbh consulting engineers'}
+0,ochoco irrigation district,ochoco irrigation district,"{'owyhee irrigation district', 'tumalo irrigation district', 'modoc point irrigation district'}"
+0,odf,odf,{'odfw'}
+0,odfw,odfw,{'odf'}
+0,ontko ranch,ontko ranch,{'pono ranch'}
+0,oregon parks recreation department,oregon parks recreation department,{'city of medford parks recreation department'}
+0,oregon state university,oregon state university,{'portland state university'}
+0,oregon stewardship,oregon stewardship,{'madrona stewardship'}
+0,owyhee irrigation district,owyhee irrigation district,"{'vale oregon irrigation district', 'westland irrigation district', 'swalley irrigation district', 'talent irrigation district', 'peoples irrigation district', 'queener irrigation district', 'ochoco irrigation district', 'tumalo irrigation district'}"
+0,owyhee watershed council,owyhee watershed council,"{'malheur watershed council', 'mosier watershed council', 'goose lake watershed council', 'nehalem watershed council', 'lower rogue watershed council'}"
+0,page ranch,page ranch,"{'agency ranch', 'pape ranches', 'pattee ranch'}"
+0,pape ranches,pape ranches,{'page ranch'}
+0,paradise creek ranch,paradise creek ranch,{'pine creek ranch'}
+0,pardue construction,pardue construction,"{'haley construction', 'garrett construction', 'green construction', 'harper construction', 'slayden construction'}"
+0,pattee ranch,pattee ranch,{'page ranch'}
+0,peoples irrigation district,peoples irrigation district,"{'medford irrigation district', 'swalley irrigation district', 'malin irrigation district', 'owyhee irrigation district', 'talent irrigation district', 'queener irrigation district'}"
+0,perkins ranch,perkins ranch,"{'keerins ranch', 'ernst ranch'}"
+0,pickett creek irrigation association,pickett creek irrigation association,{'thompson creek irrigation association'}
+0,pierce ranch,pierce ranch,{'izee ranch'}
+0,pine creek ranch,pine creek ranch,"{'mill creek ranch', 'indian creek ranch', 'fate creek ranch', 'fence creek ranch', '7 mile creek ranch', 'paradise creek ranch'}"
+0,polk county,polk county,{'lake county'}
+0,polk county public works,polk county public works,"{'marion county public works', 'lincoln county public works', 'morrow county public works', 'douglas county public works', 'lane county public works'}"
+0,pono ranch,pono ranch,{'ontko ranch'}
+0,portland state university,portland state university,{'oregon state university'}
+0,powder basin watershed council,powder basin watershed council,"{'seven basins watershed council', 'lower columbia watershed council'}"
+0,powell farms,powell farms,{'welp farms'}
+0,pudding river watershed council,pudding river watershed council,{'crooked river watershed council'}
+0,q bar x ranch,q bar x ranch,{'j bar s ranch'}
+0,queener irrigation district,queener irrigation district,"{'medford irrigation district', 'malin irrigation district', 'owyhee irrigation district', 'talent irrigation district', 'peoples irrigation district'}"
+0,r r ranch,r r ranch,"{'r2 ranch', 'cc r ranch'}"
+0,r y timber,r y timber,{'ry timber'}
+0,r2 ranch,r2 ranch,{'r r ranch'}
+0,ra farming,ra farming,{'t r farming'}
+0,rabe consulting,rabe consulting,"{'irz consulting', 'h r consulting'}"
+0,reser family foundation,reser family foundation,"{'schwemm family foundation', 'stanard family foundation', 'yarg family foundation'}"
+0,ricco ranch,ricco ranch,{'torco ranch'}
+0,rickreall watershed council,rickreall watershed council,"{'nehalem watershed council', 'elk creek watershed council'}"
+0,riddle creek ranch,riddle creek ranch,"{'yale creek ranch', 'tri creek ranch'}"
+0,riley creek elementary school,riley creek elementary school,{'deer creek elementary school'}
+0,river bend ranch,river bend ranch,"{'rivers end ranch', 'river ranch'}"
+0,river meadows homeowners association,river meadows homeowners association,"{'sunriver homeowner s association', 'elk meadows homeowners association'}"
+0,river ranch,river ranch,"{'river bend ranch', 'river run ranch', 'rivers end ranch'}"
+0,river run ranch,river run ranch,"{'rogue river ranch', 'river ranch'}"
+0,rivers end ranch,rivers end ranch,"{'river bend ranch', 'river ranch'}"
+0,rock creek ranch,rock creek ranch,"{'rudio creek ranch', 'tri creek ranch', 'wolf creek ranch'}"
+0,rocking c ranch,rocking c ranch,"{'rocking nine ranch', 'rockin j ranch', 'rocking 9 ranch'}"
+0,rogue river ranch,rogue river ranch,{'river run ranch'}
+0,rogue river valley irrigation district,rogue river valley irrigation district,{'vale oregon irrigation district'}
+0,rogue river watershed council,rogue river watershed council,"{'sandy river watershed council', 'trout creek watershed council', 'tualatin river watershed council', 'middle rogue watershed council', 'smith river watershed council', 'lower rogue watershed council'}"
+0,romans farms,romans farms,{'mast farms'}
+0,rowe middle school,rowe middle school,{'north middle school'}
+0,saddle butte cattle association,saddle butte cattle association,{'jackies butte cattle association'}
+0,sampson ranch,sampson ranch,"{'simpson ranch', 'swanson ranch', 'thompson ranch'}"
+0,sandy high school,sandy high school,"{'sandy union high school', 'kennedy high school'}"
+0,sandy union high school,sandy union high school,{'sandy high school'}
+0,santiam water control district,santiam water control district,"{'skipanon water control district', 'sutherlin water control district'}"
+0,scappoose bay watershed council,scappoose bay watershed council,{'tillamook bay watershed council'}
+0,schwemm family foundation,schwemm family foundation,{'reser family foundation'}
+0,seaside school district,seaside school district,{'sisters school district'}
+0,seven basins watershed council,seven basins watershed council,"{'sandy river basin watershed council', 'powder basin watershed council'}"
+0,shaniko cattle company,shaniko cattle company,{'hawkins cattle company'}
+0,sherman county area watershed council,sherman county area watershed council,"{'north sherman watershed council', 'harney county watershed council'}"
+0,sherman county weed department,sherman county weed department,"{'umatilla county weed department', 'wasco county weed department'}"
+0,simms ranch,simms ranch,{'simpson ranch'}
+0,simpson ranch,simpson ranch,"{'sampson ranch', 'simms ranch', 'thompson ranch'}"
+0,sisters school district,sisters school district,{'seaside school district'}
+0,siuslaw watershed council,siuslaw watershed council,"{'nestucca watershed council', 'skipanon watershed council', 'mosier watershed council', 'elk sixes watershed council'}"
+0,skinner ranches,skinner ranches,{'widner ranches'}
+0,skipanon water control district,skipanon water control district,"{'santiam water control district', 'sutherlin water control district'}"
+0,skipanon watershed council,skipanon watershed council,{'siuslaw watershed council'}
+0,skyview homeowner association,skyview homeowner association,{'sunriver homeowner s association'}
+0,slayden construction,slayden construction,{'pardue construction'}
+0,smith river watershed council,smith river watershed council,"{'rogue river watershed council', 'sandy river watershed council', 'tualatin river watershed council'}"
+0,smith seed farms,smith seed farms,{'smith farms'}
+0,south coast land conservancy,south coast land conservancy,{'north coast land conservancy'}
+0,squaw creek irrigation district,squaw creek irrigation district,{'dee irrigation district'}
+0,st helens school district,st helens school district,{'sweet home school district'}
+0,stanard family foundation,stanard family foundation,"{'yarg family foundation', 'reser family foundation'}"
+0,stanfield irrigation district,stanfield irrigation district,"{'westland irrigation district', 'swalley irrigation district', 'malin irrigation district', 'talent irrigation district', 'tumalo irrigation district'}"
+0,stien enterprises,stien enterprises,{'henry enterprises'}
+0,sullivan ranch,sullivan ranch,{'sullivan z ranch'}
+0,sullivan z ranch,sullivan z ranch,{'sullivan ranch'}
+0,sutherlin water control district,sutherlin water control district,"{'skipanon water control district', 'santiam water control district'}"
+0,sw oaks creek neighborhood association,sw oaks creek neighborhood association,{'grand oaks neighborhood association'}
+0,swalley irrigation district,swalley irrigation district,"{'baker valley irrigation district', 'malin irrigation district', 'owyhee irrigation district', 'talent irrigation district', 'peoples irrigation district', 'jordan valley irrigation district', 'langell valley irrigation district', 'tumalo irrigation district', 'stanfield irrigation district'}"
+0,swanson ranch,swanson ranch,{'sampson ranch'}
+0,sweet home school district,sweet home school district,{'st helens school district'}
+0,t r farming,t r farming,{'ra farming'}
+0,table mountain cattle company,table mountain cattle company,{'table rock cattle company'}
+0,table rock cattle company,table rock cattle company,{'table mountain cattle company'}
+0,talent irrigation district,talent irrigation district,"{'vale oregon irrigation district', 'westland irrigation district', 'swalley irrigation district', 'malin irrigation district', 'owyhee irrigation district', 'peoples irrigation district', 'queener irrigation district', 'stanfield irrigation district', 'tumalo irrigation district', 'klamath irrigation district'}"
+0,tetra tech,tetra tech,{'terra tech'}
+0,the dalles watershed council,the dalles watershed council,"{'warner valley watershed council', 'malheur watershed council', 'east john day watershed council'}"
+0,thomas ranch,thomas ranch,{'thompson ranch'}
+0,thompson creek irrigation association,thompson creek irrigation association,{'pickett creek irrigation association'}
+0,thompson ranch,thompson ranch,"{'sampson ranch', 'simpson ranch', 'thomas ranch'}"
+0,three rivers land conservancy,three rivers land conservancy,{'western rivers land conservancy'}
+0,thurston high school,thurston high school,{'thurston midde school'}
+0,thurston midde school,thurston midde school,{'thurston high school'}
+0,tillamook bay watershed council,tillamook bay watershed council,"{'scappoose bay watershed council', 'umatilla basin watershed council'}"
+0,tillamook county public works,tillamook county public works,"{'wasco county public works', 'union county public works', 'wallowa county public works'}"
+0,torco ranch,torco ranch,{'ricco ranch'}
+0,tri county cooperative weed management area,tri county cooperative weed management area,"{'josephine county cooperative weed management area', 'jackson county cooperative weed management area', 'harney county cooperative weed management area', 'lake county cooperative weed management area', 'jordan valley cooperative weed management area', 'juntura cooperative weed management area'}"
+0,tri creek ranch,tri creek ranch,"{'rudio creek ranch', 'rock creek ranch', 'riddle creek ranch', 'twin creek ranch'}"
+0,trimble ranch,trimble ranch,{'triple v ranch'}
+0,triple v ranch,triple v ranch,{'trimble ranch'}
+0,trout creek watershed council,trout creek watershed council,"{'pringle creek watershed council', 'deep creek watershed council', 'evans creek watershed council', 'ecola creek watershed council', 'johnson creek watershed council', 'fairview creek watershed council', 'rogue river watershed council', 'floras creek watershed council', 'bear creek watershed council', 'tryon creek watershed council', 'elk creek watershed council'}"
+0,tryon creek watershed council,tryon creek watershed council,"{'pringle creek watershed council', 'trout creek watershed council', 'salmon drift creek watershed council', 'deep creek watershed council', 'evans creek watershed council', 'salmon drift creek watersheds council', 'ecola creek watershed council', 'johnson creek watershed council', 'fairview creek watershed council', 'floras creek watershed council', 'bear creek watershed council', 'elk creek watershed council'}"
+0,tualatin river watershed council,tualatin river watershed council,"{'rogue river watershed council', 'sandy river watershed council', 'smith river watershed council'}"
+0,tumalo irrigation district,tumalo irrigation district,"{'medford irrigation district', 'westland irrigation district', 'swalley irrigation district', 'malin irrigation district', 'owyhee irrigation district', 'talent irrigation district', 'ochoco irrigation district', 'stanfield irrigation district', 'klamath irrigation district'}"
+0,twin buttes ranch,twin buttes ranch,{'white butte ranch'}
+0,twin creek ranch,twin creek ranch,"{'wolf creek ranch', 'tri creek ranch', 'wilkins creek ranch'}"
+0,umatilla county planning department,umatilla county planning department,"{'umatilla county road department', 'yamhill county planning department'}"
+0,umatilla county road department,umatilla county road department,"{'umatilla county weed department', 'umatilla county planning department', 'wasco county road department'}"
+0,union county public works,union county public works,"{'wallowa county public works', 'wasco county public works', 'tillamook county public works'}"
+0,union county weed control,union county weed control,"{'crook county weed control', 'morrow county weed control', 'grant county weed control', 'umatilla county weed control', 'wallowa county weed control'}"
+0,upper willamette step,upper willamette step,{'upper willamette swcd'}
+0,upper willamette swcd,upper willamette swcd,{'upper willamette step'}
+0,usfs,usfs,{'usfws'}
+0,usfws,usfws,{'usfs'}
+0,vale oregon irrigation district,vale oregon irrigation district,"{'talent irrigation district', 'owyhee irrigation district', 'jordan valley irrigation district', 'rogue river valley irrigation district'}"
+0,valley heights home owners association,valley heights home owners association,{'happy valley heights homeowners association'}
+0,vincent family ranches llc,vincent family ranches llc,{'west family ranch llc'}
+0,vinson bros construction,vinson bros construction,{'oakes bros construction'}
+0,volunteers americorps,volunteers americorps,"{'various volunteers', 'volunteers of america'}"
+0,volunteers crbc volunteers,volunteers crbc volunteers,"{'volunteers florence volunteers', 'volunteers community volunteers'}"
+0,volunteers florence volunteers,volunteers florence volunteers,{'volunteers crbc volunteers'}
+0,volunteers of america,volunteers of america,{'volunteers americorps'}
+0,volunteers sweet home youth watershed council,volunteers sweet home youth watershed council,{'volunteers youth watershed council'}
+0,wade limited partnership,wade limited partnership,{'reed ranch limited partnership'}
+0,walla walla watershed alliance,walla walla watershed alliance,{'walla walla watershed planning'}
+0,wallowa county public works,wallowa county public works,"{'wasco county public works', 'union county public works', 'tillamook county public works'}"
+0,warner valley watershed council,warner valley watershed council,{'the dalles watershed council'}
+0,wasco county public works,wasco county public works,"{'wallowa county public works', 'union county public works', 'tillamook county public works'}"
+0,wasco county road department,wasco county road department,"{'wheeler county road department', 'umatilla county road department', 'wasco county weed department'}"
+0,wasco county weed department,wasco county weed department,"{'umatilla county weed department', 'wallowa county weed department', 'sherman county weed department', 'gilliam county weed department', 'wasco county road department'}"
+0,waterways consulting,waterways consulting,{'waterwork consulting'}
+0,waterwork consulting,waterwork consulting,{'waterways consulting'}
+0,welp farms,welp farms,{'powell farms'}
+0,westland irrigation district,westland irrigation district,"{'malin irrigation district', 'owyhee irrigation district', 'talent irrigation district', 'tumalo irrigation district', 'stanfield irrigation district'}"
+0,wheeler county road department,wheeler county road department,{'wasco county road department'}
+0,whitaker farms llc,whitaker farms llc,{'white s farm llc'}
+0,white diamond ranch,white diamond ranch,{'diamond x ranch'}
+0,white ranches,white ranches,"{'wilde ranches', 'widner ranches'}"
+0,white s farm llc,white s farm llc,{'whitaker farms llc'}
+0,widman ranch,widman ranch,"{'weedman ranch', 'sigman ranch'}"
+0,widner ranches,widner ranches,"{'wilde ranches', 'white ranches', 'skinner ranches'}"
+0,wild turkey federation,wild turkey federation,{'wild turkey foundation'}
+0,wilde ranches,wilde ranches,"{'white ranches', 'widner ranches', 'wilson ranches', 'wilks ranches'}"
+0,wilkins creek ranch,wilkins creek ranch,{'twin creek ranch'}
+0,wilkinson ranches llc,wilkinson ranches llc,{'wilson ranches le llc'}
+0,wilks ranches,wilks ranches,"{'wilde ranches', 'wilson ranches'}"
+0,willamette restoration initiative,willamette restoration initiative,"{'willamette habitat restoration', 'willamette habitat restoration fund'}"
+0,williams creek watershed council,williams creek watershed council,{'willow creek watershed council'}
+0,willow creek watershed council,willow creek watershed council,"{'williams creek watershed council', 'elk creek watershed council'}"
+0,willow farms llc,willow farms llc,"{'willow valley farms', 'wilson farm llc'}"
+0,willow valley farms,willow valley farms,{'willow farms llc'}
+0,wilson cattle co,wilson cattle co,{'lemmon cattle co'}
+0,wilson farm llc,wilson farm llc,{'willow farms llc'}
+0,wilson ranches,wilson ranches,"{'wilde ranches', 'wilks ranches'}"
+0,wilson ranches le llc,wilson ranches le llc,{'wilkinson ranches llc'}
+0,wither ranch inc,wither ranch inc,{'withers ranch'}
+0,withers ranch,withers ranch,{'wither ranch inc'}
+0,wolf creek ranch,wolf creek ranch,"{'yale creek ranch', 'rock creek ranch', 'twin creek ranch'}"
+0,yale creek ranch,yale creek ranch,"{'riddle creek ranch', 'wolf creek ranch'}"
+0,yamhill county,yamhill county,{'yamhill county parks'}
+0,yamhill county parks,yamhill county parks,"{'yamhill county public works', 'yamhill county'}"
+0,yamhill county planning department,yamhill county planning department,{'umatilla county planning department'}
+0,yamhill county public works,yamhill county public works,{'yamhill county parks'}
+0,yarg family foundation,yarg family foundation,"{'stanard family foundation', 'reser family foundation'}"
+1,anderson ranches,anderson ranch,"{'andre ranches', 'davidson ranches', 'anderson ranch', 'andersen ranches', 'harrison ranches'}"
+1,antone ranch llc,antone ranch,"{'antone ranch', 'antonne ranch'}"
+1,antonne ranch,antone ranch,"{'antone ranch', 'antone ranch llc'}"
+1,applegate partnership,applegate partnership watershed council,{'applegate partnership inc'}
+1,applegate partnership inc,applegate partnership watershed council,{'applegate partnership'}
+1,applegate river watershed council,applegate partnership watershed council,{'applegate partnership watershed council'}
+1,arriola farms,arriola ranch,{'avila farms'}
+1,bridge creek ranch llc,bridge creek ranch,"{'bridge creek ranch', 'bridge creek ranch llc pape'}"
+1,bridge creek ranch llc pape,bridge creek ranch,{'bridge creek ranch llc'}
+1,bridge creek watershed council,mid john day watershed council,"{'bear creek watershed council', 'mid john day bridge creek watershed council', 'elk creek watershed council'}"
+1,broken spur ranches,broken spur ranch,"{'broken spur ranches llc', 'broken spur ranch'}"
+1,broken spur ranches llc,broken spur ranch,"{'broken spur ranches', 'broken spur ranch'}"
+1,butler creek farm inc,butler creek farm,"{'butler creek farms', 'butler creek farm'}"
+1,butler creek farms,butler creek farm,"{'butler creek farm', 'butler creek farm inc'}"
+1,campbell cattle ranch llc,campbell cattle ranch,{'campbell cattle ranch'}
+1,campbell crossing inc,campbell crossing ranch,{'campbell crossing ranch'}
+1,campbell crossing ranch,,{'campbell crossing inc'}
+1,central oregon small woodlands association,oregon small woodlands association,{'oregon small woodlands association'}
+1,clyde holliday family ranches inc,holliday family ranches inc,{'holliday family ranches inc'}
+1,columbia county roads and parks department,columbia county road department,"{'columbia county road department', 'columbia county parks department', 'columbia county roads department'}"
+1,columbia county roads department,columbia county road department,"{'columbia county roads and parks department', 'coos county road department', 'baker county road department', 'columbia county parks department', 'columbia county road department', 'clackamas county road department'}"
+1,community members,community member,{'community member'}
+1,community volunteers,community member,"{'council volunteers', 'various community volunteers', 'volunteers community'}"
+1,contractors,contractor,{'contractor'}
+1,coos county weed advisory board,coos county noxious weed advisory board,"{'coos county noxious weed advisory board', 'curry weed advisory board'}"
+1,coos forest patrol,coos forest protection association,{'coos forest patrol agency'}
+1,coos forest patrol agency,coos forest protection association,{'coos forest patrol'}
+1,copeland sand gravel,copeland sand and gravel inc,{'copeland sand and gravel inc'}
+1,crook county weed master,crook county weed control,{'crook county weed supervisor'}
+1,crook county weed supervisor,,{'crook county weed master'}
+1,crook estate,crook estates,{'crook estates'}
+1,crooked river weed management area board members,crooked river weed management area,{'crooked river weed management area'}
+1,cutthroat county consulting,cutthroat country consulting,{'cutthroat country consulting'}
+1,d r ranches llc,d r ranches,{'d r ranches'}
+1,dahle orchard,dahle orchards,{'dahle orchards'}
+1,dallas high school ffa,dallas high school,{'dallas high school'}
+1,davidson industries,davidson industries inc,{'davidson industries inc'}
+1,deck family farms,deck family farm,{'deck family farm'}
+1,deschutes mitigation and enhancement,deschutes mitigation and enhancement committee,{'deschutes mitigation and enhancement committee'}
+1,deschutes resources council,deschutes resources conservancy,{'deschutes resources conservancy'}
+1,dixie meadow co ranch,dixie meadows co,{'dixie meadows co'}
+1,dow ranch,dow ranches,{'dow ranches'}
+1,dr johnson lumber co,dr johnson lumber company,{'dr johnson lumber company'}
+1,east john day watershed council,gilliam east john day watershed council,"{'mid john day watershed council', 'gilliam east john day watershed council', 'the dalles watershed council', 'east lower john day watershed council'}"
+1,east lower john day watershed council,gilliam east john day watershed council,"{'mid john day watershed council', 'gilliam east john day watershed council', 'north fork john day watershed council', 'east john day watershed council'}"
+1,elmwood ranches,elmwood ranches inc,{'elmwood ranches inc'}
+1,forest of oregon,ane forest of oregon,{'ane forest of oregon'}
+1,foundation for north american wild sheep,oregon foundation for north american wild sheep,{'oregon foundation for north american wild sheep'}
+1,fred van eck forest foundation,van eck forest foundation,{'van eck forest foundation'}
+1,full circle bison ranch herb pharm,full circle bison ranch,{'full circle bison ranch'}
+1,george fox university students,george fox university,{'george fox university'}
+1,glavey ranches,glavey ranches llc,"{'glaney ranches llc', 'glavey ranches llc'}"
+1,grande ronde model watershed foundation,grande ronde model watershed council,{'grande ronde model watershed'}
+1,grande ronde model watershed program,grande ronde model watershed council,{'grande ronde model watershed'}
+1,gray ranch,gray ranch inc,"{'gentry ranch', 'gray ranch inc'}"
+1,green diamond timber resource company,green diamond resource company,{'green diamond resource company'}
+1,green excavation,green tree excavation,{'green tree excavation'}
+1,griffith livestock,griffith livestock llc,{'griffith livestock llc'}
+1,habitat contracting,habitat contracting llc,{'habitat contracting llc'}
+1,haley construction co inc,,"{'hatley construction', 'haley construction'}"
+1,hampton resources,hampton resources inc,{'hampton resources inc'}
+1,hardie partnership,hardie family partnership,{'hardie family partnership'}
+1,harrison ranches,harrison ranch,"{'anderson ranches', 'davidson ranches', 'harrison ranch'}"
+1,harry bettis ranches,bettis ranches,{'bettis ranches'}
+1,hash knife ranch,hashknife ranch,{'hashknife ranch'}
+1,hildebrand ranches,hildebrand ranches llc,{'hildebrand ranches llc'}
+1,hill ranches,hill ranches inc,"{'hill ranches inc', 'hall ranch', 'helle ranches'}"
+1,ironside associates ranches,ironside associates,{'ironside associates'}
+1,iz ranch,iz ranch llc,"{'7z ranch', 'izee ranch'}"
+1,jobs council of jackson county,jackson county jobs council,{'jackson county job council'}
+1,joe baertlein construction,baertlein construction,{'baertlein construction'}
+1,josephine county parks,josephine county parks department,"{'josephine county public works', 'josephine county'}"
+1,kennerly ranches,kennerly ranches llc,{'kennerly ranches llc'}
+1,klamath flycasters,klamath county flycasters,{'klamath country flycasters'}
+1,klamath watershed partnership,klamath watershed council,{'mohawk watershed partnership'}
+1,lake county research initiative,lake county resources initiative,{'lake county resources initiative'}
+1,lake county watershed council,lake county umbrella watershed council,"{'lake county watershed councils', 'lake county umbrella watershed council', 'harney county watershed council', 'deschutes county watershed council', 'goose lake watershed council'}"
+1,lake county watershed councils,lake county umbrella watershed council,"{'lake county watershed council', 'lake county umbrella watershed council', 'harney county watershed council', 'deschutes county watershed council', 'goose lake watershed council'}"
+1,linn county hwy department,linn county road department,{'linn county road department'}
+1,lobster partnership,lobster creek partnership,{'lobster creek partnership'}
+1,local businesses,local business,{'local business'}
+1,lonerock ranch inc,lonerock ranch,"{'lonerock ranch llc', 'lonerock ranch'}"
+1,lonerock ranch llc,lonerock ranch,"{'lonerock ranch inc', 'lonerock ranch', 'loop ranch llc'}"
+1,lower columbia river estuary partnership,lower columbia estuary partnership,{'lower columbia estuary partnership'}
+1,lower columbia watershed council,lower columbia river watershed council,"{'columbia slough watershed council', 'lower columbia river watershed council', 'powder basin watershed council', 'volunteers columbia slough watershed council'}"
+1,m 5 land company,m5 land company,{'m5 land company'}
+1,m smith ranches,m smith ranches,"{'m smith ranch', 'j smith ranch'}"
+1,mackenzie ranches,mackenzie ranch,{'mackenzie ranch'}
+1,mast farms,mast farms inc,"{'mast farms inc', 'romans farms', 'martin farms', 'madras farms'}"
+1,michaels ranch,michaels ranch llc,{'michaels ranch llc'}
+1,mid john day bridge creek watershed council,mid john day watershed council,"{'bridge creek watershed council', 'mid john day watershed council'}"
+1,middle rogue watershed council,rogue river watershed council,"{'rogue river watershed council', 'lower rogue watershed council'}"
+1,milton freewater flood control district,milton freewater water control district,{'milton freewater water control district'}
+1,molalla river watch,molalla river watch inc,{'molalla river watch inc'}
+1,mountain park home owners association volunteers,mountain park home owners association,{'mountain park home owners association'}
+1,multiple landowners,private landowner,{'private landowners multiple'}
+1,murphy creek ditch association,murphy ditch association,{'murphy ditch association'}
+1,native species center at powers high school,powers high school native species center,{'powers high school native species center'}
+1,neskowin valley school,neskowin valley schools,{'neskowin valley schools'}
+1,nestucca neskowin sand lake watersheds council,nestucca neskowin watershed council,"{'nestucca neskowin watersheds council', 'nestucca neskowin watershed council'}"
+1,nestucca neskowin watersheds council,nestucca neskowin watershed council,"{'nestucca watershed council', 'nestucca neskowin sand lake watersheds council', 'nestucca neskowin watershed council', 'volunteers nestucca neskowin watershed council'}"
+1,nestucca tree farm c o hancock forest management gates tree farm,nestucca tree farm llc co hancock forest management,{'nestucca tree farm llc c o hancock forest management'}
+1,nestucca watershed council,nestucca neskowin watershed council,"{'nestucca neskowin watershed council', 'nestucca neskowin watersheds council', 'siuslaw watershed council', 'necanicum watershed council', 'nehalem watershed council'}"
+1,noaa fisheries,naco noaa fisheries,{'naco noaa fisheries'}
+1,nolin farming,nolin farming co,{'nolin farming co'}
+1,northern oregon watershed restoration partnership,northwest oregon restoration partnership,{'northwest oregon restoration partnership'}
+1,olsen ranch gp,olsen ranch,{'olsen ranch'}
+1,oregon national guard,oregon army national guard,{'oregon army national guard'}
+1,oregon wildlife heritage foundation,oregon wildlife foundation,{'oregon wildlife foundation'}
+1,pacific power light,pacific power,{'pacific power'}
+1,pacific west timber llc,pacific west timber company llc,{'pacific west timber co'}
+1,pacificorporation energy,pacificorp,{'pacificorporation'}
+1,parametrix inc,parametrix,{'parametrix'}
+1,philomath high school students,philomath high school,{'philomath high school'}
+1,philomath scout lodge,philomath scout lodge inc,{'philomath scout lodge inc'}
+1,plum creek timberlands llc,plum creek timberlands,"{'crook timberlands llc', 'plum creek timberlands lp', 'plum creek timberlands'}"
+1,plum creek timberlands lp,plum creek timberlands,"{'plum creek timberlands llc', 'plum creek timberlands'}"
+1,polk county fire district,polk county fire district no 1,{'polk county fire district no 1'}
+1,polk fire district no 1,polk county fire district no 1,{'polk county fire district no 1'}
+1,port of tillamook,port of tillamook bay,{'port of tillamook bay'}
+1,portland schools,portland public schools,{'portland public schools'}
+1,private citizen,private citizens,{'private citizens'}
+1,private landowner 1,private landowner,"{'private landowners 5', 'private landowner mc029', 'private landowner mc004', 'private landowners', 'private landowner former', 'private landowner property 1', 'private landowner', 'private landowner 2', 'private landowner mc006'}"
+1,private landowner 2,private landowner,"{'private landowners 5', 'private landowner mc029', 'private landowner mc004', 'private landowners', 'private landowner former', 'private landowner 1', 'private landowner', 'private landowner property 2', 'private landowner mc006'}"
+1,private landowner adjacent,private landowner,"{'private landowners adjoining', 'private landowners adjacent'}"
+1,private landowner former,private landowner,"{'private landowners 5', 'private landowners', 'private landowner 1', 'private landowner', 'private landowner 2'}"
+1,private landowner lessee,private landowner,"{'private landowners 5', 'private landowner', 'private landowners'}"
+1,private landowner mc004,private landowner,"{'private landowner mc029', 'private landowners', 'private landowner 1', 'private landowner', 'private landowner 2', 'private landowner mc006'}"
+1,private landowner mc006,private landowner,"{'private landowner mc029', 'private landowner mc004', 'private landowners', 'private landowner 1', 'private landowner', 'private landowner 2'}"
+1,private landowner mc029,private landowner,"{'private landowner mc004', 'private landowners', 'private landowner 1', 'private landowner', 'private landowner 2', 'private landowner mc006'}"
+1,private landowner neighbor contributor,private landowner,{'private landowners multiple neighbor contributor'}
+1,private landowners,private landowner,"{'private landowners 5', 'private landowner mc029', 'private landowner mc004', 'private landowner former', 'private landowner lessee', 'private landowner 1', 'private landowner', 'private landowner 2', 'private landowner mc006'}"
+1,private landowners 5,private landowner,"{'private landowners', 'private landowner former', 'private landowner lessee', 'private landowner 1', 'private landowner', 'private landowners adjacent', 'private landowner 2'}"
+1,private landowners adjacent,private landowner,"{'private landowners 5', 'private landowner adjacent', 'private landowners adjoining'}"
+1,private landowners adjoining,private landowner,"{'private landowner adjacent', 'private landowners adjacent'}"
+1,private landowners multiple,private landowner,"{'private landowners multiple 11', 'multiple landowners'}"
+1,private landowners multiple neighbor contributor,private landowner,{'private landowner neighbor contributor'}
+1,r d johns farm inc,rd johns farms inc,{'rd johns farms inc'}
+1,r m knox sons,rm knox sons inc,{'r m knox sons inc'}
+1,reed ranch limited partnership,reed ranch ltd partnership,"{'reed ranch ltd partnership', 'dalton ranch limited partnership', 'wade limited partnership'}"
+1,rock n j ranch,rockin j ranch,{'rockin j ranch'}
+1,rocking nine ranch,rocking 9 ranch,"{'rocking c ranch', 'rockin j ranch', 'rocking 9 ranch'}"
+1,rudio creek ranch llc,rudio creek ranch,{'rudio creek ranch'}
+1,ry timber,ry timber inc,"{'r y timber', 'ry timber inc'}"
+1,salmon drift creek watersheds council,salmon drift creek watershed council,"{'floras creek watershed council', 'salmon drift creek watershed council', 'tryon creek watershed council'}"
+1,scabby hollow ranch,scabby hollow ranch llc,{'scabby hollow ranch llc'}
+1,sea wind farms,sea wind farms inc,{'sea wind farms inc'}
+1,seven oaks farm,seven oaks farms,{'seven oaks farms'}
+1,shuttle northern lights christmas tree farm,northern lights christmas tree farm,{'northern lights christmas tree farm'}
+1,sigman ranches,sigman ranch,{'sigman ranch'}
+1,silver lake community watershed council,silver lake watershed council,{'silver lake watershed council'}
+1,solv,solve,{'solve'}
+1,south board irrigation district,south board of control irrigation district,"{'south board of control irrigation district', 'arnold irrigation district'}"
+1,south coast fishermen,oregon south coast fisherman,{'oregon south coast fishermen'}
+1,south coast watersheds,south coast watershed council,{'south coast watershed council'}
+1,south santiam watershed council volunteers,south santiam watershed council,"{'south santiam watershed council', 'volunteers luckiamute watershed council'}"
+1,stroda bros,stroda brothers farm,{'stroda bros farm'}
+1,stroda brothers farm,stroda brothers farm,"{'stroda brothers farms', 'stroda bros farm'}"
+1,stroda brothers farms,stroda brothers farm,"{'stroda brothers farm', 'stroda bros farm'}"
+1,sunriver homeowner s association,sunriver owners association,"{'river meadows homeowners association', 'sunriver owners association', 'skyview homeowner association'}"
+1,taylor ranch,taylor ranch inc,{'taylor ranch inc'}
+1,terra tech inc,terra tech,{'terra tech'}
+1,the campbell group,campbell group llc,{'campbell group llc'}
+1,thompson gates timber,thompson timber co,{'thompson timber co'}
+1,thomson family evans timber,thomson family evans timber llc,{'thomson family evans timber llc'}
+1,three valley s ranches,three valleys ranch,{'three valleys ranch'}
+1,tillamook bay national estuary project tcpp,tillamook bay national estuary project,{'tillamook bay national estuary project'}
+1,tillamook school district 9,tillamook school district,{'tillamook school district'}
+1,timber basin contractors,timber basin contractors llc,{'timber basin contractors llc'}
+1,timber service company,timber service co,{'timber service co'}
+1,tree top ranch,tree top ranches,{'tree top ranches'}
+1,umatilla basin watershed foundation,umatilla basin watershed council,"{'umatilla basin watershed council', 'walla walla basin watershed foundation'}"
+1,umatilla county weed control,umatilla county weed department,"{'klamath county weed control', 'grant county weed control', 'union county weed control', 'wallowa county weed control'}"
+1,umpqua flyfishers association,umpqua fishermens association,{'umpqua fishermen s association'}
+1,valentine construction inc,c valentine construction inc,{'c valentine constructing inc'}
+1,volunteers,volunteer,"{'volunteer', 'sfi volunteers'}"
+1,volunteers clackamas river basin council,clackamas river basin council,"{'clackamas river basin council', 'volunteers organized by clackamas river basin council'}"
+1,volunteers columbia slough watershed council,columbia slough watershed council,"{'columbia slough watershed council', 'lower columbia watershed council'}"
+1,volunteers confederated tribes of grand ronde,confederated tribes of grand ronde,{'confederated tribes of grand ronde'}
+1,volunteers luckiamute watershed council,luckiamute watershed council,"{'south santiam watershed council volunteers', 'volunteers oswego lake watershed council', 'luckiamute watershed council'}"
+1,volunteers nestucca neskowin watershed council,nestucca neskowin watershed council,"{'nestucca neskowin watersheds council', 'nestucca neskowin watershed council'}"
+1,volunteers organized by clackamas river basin council,clackamas river basin council,{'volunteers clackamas river basin council'}
+1,volunteers oswego lake watershed council,oswego lake watershed council,"{'oswego lake watershed council', 'volunteers luckiamute watershed council'}"
+1,volunteers santiam wilderness academy,santiam wilderness academy,{'santiam wilderness academy'}
+1,volunteers upper rogue watershed association,upper rogue watershed association,{'upper rogue watershed association'}
+1,wahl 3 ranch,wahl ranches co,{'wahl ranches co'}
+1,wahl ranches llc,wahl ranches co,"{'wampler ranches llc', 'wahl ranches co'}"
+1,walla walla basin watershed foundation,walla walla basin watershed council,"{'umatilla basin watershed foundation', 'walla walla basin watershed council', 'walla walla watershed foundation'}"
+1,walla walla watershed foundation,walla walla basin watershed council,"{'walla walla basin watershed foundation', 'walla walla county watershed planning', 'walla walla watershed planning'}"
+1,walla walla watershed planning,walla walla county watershed planning,"{'walla walla watershed alliance', 'walla walla watershed foundation', 'walla walla county watershed planning'}"
+1,wallowa county public works vegetation department,wallowa county vegetation department,{'wallowa county vegetation department'}
+1,wallowa county weed control,wallowa county weed department,"{'crook county weed control', 'klamath county weed control', 'morrow county weed control', 'grant county weed control', 'umatilla county weed control', 'union county weed control'}"
+1,wampler ranches,wampler ranches llc,{'wampler ranches llc'}
+1,weedman ranch,weedman ranches inc,"{'widman ranch', 'weedman ranches inc'}"
+1,west family ranch,west family ranch llc,"{'west family ranch llc', 'smith family ranch'}"
+1,westbrook land timber,westbrook timber,{'westbrook timber'}
+1,western rivers land conservancy,western rivers conservancy,"{'three rivers land conservancy', 'western rivers conservancy'}"
+1,white butte ranch,white butte ranch llc,"{'twin buttes ranch', 'white butte ranch llc'}"
+1,whitewater ranch,whitewater ranch llc,{'whitewater ranch llc'}
+1,wild turkey foundation,national wild turkey foundation,"{'wild turkey federation', 'national wild turkey foundation'}"
+1,willamette habitat restoration,willamette habitat restoration fund,"{'willamette restoration initiative', 'willamette habitat restoration fund'}"
+1,wolfe ranch inc,wolfe ranch,{'wolfe ranch'}
+1,grande ronde model watershed,grande ronde model watershed council,"{'grande ronde model watershed foundation', 'grande ronde model watershed program'}"
+1,haley construction,haley construction co inc,"{'hatley construction', 'pardue construction', 'haley construction co inc', 'harper construction', 'lemax construction', 'jal construction'}"
+1,international paper,international paper company,{'international paper company'}
+2,international paper company,international paper company,{'international paper'}
+2,anderson ranch,anderson ranch,"{'anderson ranches', 'andersen ranches'}"
+2,ane forest of oregon,ane forest of oregon,{'forest of oregon'}
+2,antone ranch,antone ranch,"{'antone ranch llc', 'antonne ranch'}"
+2,applegate partnership watershed council,applegate partnership watershed council,{'applegate river watershed council'}
+2,arriola ranch,arriola ranch,{'harrison ranch'}
+2,baertlein construction,baertlein construction,"{'bergerson construction', 'joe baertlein construction'}"
+2,bettis ranches,bettis ranches,"{'betts ranch', 'harry bettis ranches'}"
+2,bridge creek ranch,bridge creek ranch,"{'bridge creek ranch llc', 'bear creek ranch'}"
+2,broken spur ranch,broken spur ranch,"{'broken spur ranches', 'broken spur ranches llc'}"
+2,butler creek farm,butler creek farm,"{'butler creek farms', 'butler creek farm inc'}"
+2,campbell cattle ranch,campbell cattle ranch,{'campbell cattle ranch llc'}
+2,campbell group llc,campbell group llc,{'the campbell group'}
+2,cape lockhart ranches,cape lockhart ranches,{'lockhart ranches'}
+2,clackamas river basin council,clackamas river basin council,{'volunteers clackamas river basin council'}
+2,columbia county road department,columbia county road department,"{'columbia county roads and parks department', 'coos county road department', 'clackamas county road department', 'baker county road department', 'columbia county parks department', 'columbia county roads department'}"
+2,columbia slough watershed council,columbia slough watershed council,"{'lower columbia watershed council', 'lower columbia river watershed council', 'south coast watershed council', 'volunteers columbia slough watershed council'}"
+2,community member,community member,{'community members'}
+2,confederated tribes of grand ronde,confederated tribes of grand ronde,{'volunteers confederated tribes of grand ronde'}
+2,coos county noxious weed advisory board,coos county noxious weed advisory board,{'coos county weed advisory board'}
+2,coos forest protection association,coos forest protection association,{'douglas forest protection association'}
+2,copeland sand and gravel inc,copeland sand and gravel inc,{'copeland sand gravel'}
+2,crook county weed control,crook county weed control,"{'klamath county weed control', 'morrow county weed control', 'grant county weed control', 'union county weed control', 'wallowa county weed control'}"
+2,crook estates,crook estates,{'crook estate'}
+2,crooked river weed management area,crooked river weed management area,{'crooked river weed management area board members'}
+2,cutthroat country consulting,cutthroat country consulting,{'cutthroat county consulting'}
+2,d r ranches,d r ranches,"{'andre ranches', 'dow ranches', 'd r ranches llc'}"
+2,dahle orchards,dahle orchards,"{'galvez orchards', 'dahle orchard'}"
+2,dallas high school,dallas high school,"{'dallas high school ffa', 'ashland high school'}"
+2,davidson industries inc,davidson industries inc,{'davidson industries'}
+2,deck family farm,deck family farm,{'deck family farms'}
+2,deschutes mitigation and enhancement committee,deschutes mitigation and enhancement committee,{'deschutes mitigation and enhancement'}
+2,deschutes resources conservancy,deschutes resources conservancy,"{'deschutes river conservancy', 'deschutes resources council'}"
+2,dixie meadows co,dixie meadows co,{'dixie meadow co ranch'}
+2,dow ranches,dow ranches,"{'dow ranch', 'd r ranches'}"
+2,dr johnson lumber company,dr johnson lumber company,{'dr johnson lumber co'}
+2,elmwood ranches inc,elmwood ranches inc,{'elmwood ranches'}
+2,full circle bison ranch,full circle bison ranch,{'full circle bison ranch herb pharm'}
+2,george fox university,george fox university,{'george fox university students'}
+2,gilliam east john day watershed council,gilliam east john day watershed council,"{'east lower john day watershed council', 'east john day watershed council'}"
+2,glavey ranches llc,glavey ranches llc,"{'glaney ranches llc', 'glavey ranches'}"
+2,gray ranch inc,gray ranch inc,{'gray ranch'}
+2,green diamond resource company,green diamond resource company,{'green diamond timber resource company'}
+2,green tree excavation,green tree excavation,{'green excavation'}
+2,griffith livestock llc,griffith livestock llc,{'griffith livestock'}
+2,habitat contracting llc,habitat contracting llc,{'habitat contracting'}
+2,hampton resources inc,hampton resources inc,{'hampton resources'}
+2,hardie family partnership,hardie family partnership,"{'harmon family limited partnership', 'hardie partnership'}"
+2,harrison ranch,harrison ranch,"{'arriola ranch', 'arriens ranch', 'harrison ranches'}"
+2,hashknife ranch,hashknife ranch,{'hash knife ranch'}
+2,hildebrand ranches llc,hildebrand ranches llc,{'hildebrand ranches'}
+2,hill ranches inc,hill ranches inc,{'hill ranches'}
+2,holliday family ranches inc,holliday family ranches inc,{'clyde holliday family ranches inc'}
+2,ironside associates,ironside associates,{'ironside associates ranches'}
+2,iz ranch llc,iz ranch llc,"{'king ranch llc', 'gm ranch llc'}"
+2,jackson county job council,jackson county job council,{'jobs council of jackson county'}
+2,josephine county parks department,josephine county parks department,"{'douglas county parks department', 'josephine county planning department'}"
+2,kennerly ranches llc,kennerly ranches llc,{'kennerly ranches'}
+2,klamath country flycasters,klamath country flycasters,{'klamath flycasters'}
+2,klamath watershed council,klamath watershed council,"{'midcoast watersheds council', 'malheur watershed council', 'luckiamute watershed council'}"
+2,lake county resources initiative,lake county resources initiative,{'lake county research initiative'}
+2,lake county umbrella watershed council,lake county umbrella watershed council,"{'harney county watershed council', 'lake county watershed council', 'lake county watershed councils'}"
+2,linn county road department,linn county road department,"{'malheur county road department', 'jefferson county road department', 'coos county road department', 'lake county road department', 'grant county road department', 'lincoln county road department', 'lane county road department', 'gilliam county road department', 'linn county hwy department'}"
+2,lobster creek partnership,lobster creek partnership,{'lobster partnership'}
+2,lonerock ranch,lonerock ranch,"{'lonerock ranch llc', 'lonerock ranch inc'}"
+2,lower columbia estuary partnership,lower columbia estuary partnership,{'lower columbia river estuary partnership'}
+2,lower columbia river watershed council,lower columbia river watershed council,"{'columbia slough watershed council', 'lower columbia watershed council'}"
+2,luckiamute watershed council,luckiamute watershed council,"{'mckenzie watershed council', 'klamath watershed council', 'volunteers luckiamute watershed council'}"
+2,m smith ranch,m smith ranch,"{'smith family ranch', 'm smith ranches', 'j smith ranch'}"
+2,m5 land company,m5 land company,"{'m 5 land company', 'limnes land company'}"
+2,mackenzie ranch,mackenzie ranch,{'mackenzie ranches'}
+2,mast farms inc,mast farms inc,"{'mast farms', 'jrs farms inc'}"
+2,michaels ranch llc,michaels ranch llc,{'michaels ranch'}
+2,mid john day watershed council,mid john day watershed council,"{'east lower john day watershed council', 'south fork john day watershed council', 'east john day watershed council', 'north fork john day watershed council', 'mid john day bridge creek watershed council'}"
+2,milton freewater water control district,milton freewater water control district,{'milton freewater flood control district'}
+2,molalla river watch inc,molalla river watch inc,{'molalla river watch'}
+2,mountain park home owners association,mountain park home owners association,"{'mountain park home owners association volunteers', 'mountain meadows owners association'}"
+2,murphy ditch association,murphy ditch association,{'murphy creek ditch association'}
+2,naco noaa fisheries,naco noaa fisheries,{'noaa fisheries'}
+2,national wild turkey foundation,national wild turkey foundation,{'wild turkey foundation'}
+2,neskowin valley schools,neskowin valley schools,{'neskowin valley school'}
+2,nestucca neskowin watershed council,nestucca neskowin watershed council,"{'nestucca watershed council', 'nestucca neskowin sand lake watersheds council', 'nestucca neskowin watersheds council', 'volunteers nestucca neskowin watershed council'}"
+2,nolin farming co,nolin farming co,{'nolin farming'}
+2,northern lights christmas tree farm,northern lights christmas tree farm,{'shuttle northern lights christmas tree farm'}
+2,olsen ranch,olsen ranch,"{'olsen ranch gp', 'cole ranch'}"
+2,oregon army national guard,oregon army national guard,{'oregon national guard'}
+2,oregon foundation for north american wild sheep,oregon foundation for north american wild sheep,{'foundation for north american wild sheep'}
+2,oregon small woodlands association,oregon small woodlands association,{'central oregon small woodlands association'}
+2,oregon south coast fishermen,oregon south coast fishermen,{'south coast fishermen'}
+2,oregon wildlife foundation,oregon wildlife foundation,{'oregon wildlife heritage foundation'}
+2,oswego lake watershed council,oswego lake watershed council,"{'silver lake watershed council', 'volunteers oswego lake watershed council'}"
+2,pacific power,pacific power,{'pacific power light'}
+2,parametrix,parametrix,{'parametrix inc'}
+2,philomath high school,philomath high school,{'philomath high school students'}
+2,philomath scout lodge inc,philomath scout lodge inc,{'philomath scout lodge'}
+2,plum creek timberlands,plum creek timberlands,"{'plum creek timberlands lp', 'plum creek timberlands llc'}"
+2,polk county fire district no 1,polk county fire district no 1,"{'polk fire district no 1', 'polk county fire district'}"
+2,port of tillamook bay,port of tillamook bay,{'port of tillamook'}
+2,portland public schools,portland public schools,{'portland schools'}
+2,powers high school native species center,powers high school native species center,{'native species center at powers high school'}
+2,private citizens,private citizens,{'private citizen'}
+2,private landowner,private landowner,"{'private landowners 5', 'private landowner mc029', 'private landowner mc004', 'private landowners', 'private landowner former', 'private landowner lessee', 'private landowner 1', 'private landowner 2', 'private landowner mc006'}"
+2,rd johns farms inc,rd johns farms inc,{'r d johns farm inc'}
+2,reed ranch ltd partnership,reed ranch ltd partnership,{'reed ranch limited partnership'}
+2,rockin j ranch,rockin j ranch,"{'rocking nine ranch', 'rocking c ranch', 'rock n j ranch', 'rocking 9 ranch'}"
+2,rocking 9 ranch,rocking 9 ranch,"{'rocking nine ranch', 'rocking c ranch', 'rockin j ranch'}"
+2,rudio creek ranch,rudio creek ranch,"{'rudio creek ranch llc', 'rock creek ranch', 'tri creek ranch'}"
+2,ry timber inc,ry timber inc,{'ry timber'}
+2,salmon drift creek watershed council,salmon drift creek watershed council,"{'pringle creek watershed council', 'salmon drift creek watersheds council', 'floras creek watershed council', 'johnson creek watershed council', 'tryon creek watershed council'}"
+2,santiam wilderness academy,santiam wilderness academy,{'volunteers santiam wilderness academy'}
+2,scabby hollow ranch llc,scabby hollow ranch llc,{'scabby hollow ranch'}
+2,sea wind farms inc,sea wind farms inc,{'sea wind farms'}
+2,seven oaks farms,seven oaks farms,{'seven oaks farm'}
+2,sigman ranch,sigman ranch,"{'widman ranch', 'sigman ranches'}"
+2,silver lake watershed council,silver lake watershed council,"{'malheur watershed council', 'oswego lake watershed council', 'mosier watershed council', 'crooked river watershed council', 'elk sixes watershed council', 'silver lake community watershed council', 'marys river watershed council'}"
+2,solve,solve,{'solv'}
+2,south board of control irrigation district,south board of control irrigation district,"{'south board irrigation district', 'south board of control irrigation district landowners'}"
+2,south coast watershed council,south coast watershed council,"{'columbia slough watershed council', 'south coast watersheds'}"
+2,south santiam watershed council,south santiam watershed council,"{'south santiam watershed council volunteers', 'north santiam watershed council'}"
+2,stroda bros farm,stroda bros farm,"{'stroda bros', 'stroda brothers farms', 'stroda brothers farm'}"
+2,sunriver owners association,sunriver owners association,{'sunriver homeowner s association'}
+2,taylor ranch inc,taylor ranch inc,{'taylor ranch'}
+2,terra tech,terra tech,"{'tetra tech', 'terra tech inc'}"
+2,thompson timber co,thompson timber co,{'thompson gates timber'}
+2,thomson family evans timber llc,thomson family evans timber llc,{'thomson family evans timber'}
+2,three valleys ranch,three valleys ranch,{'three valley s ranches'}
+2,tillamook bay national estuary project,tillamook bay national estuary project,{'tillamook bay national estuary project tcpp'}
+2,tillamook school district,tillamook school district,{'tillamook school district 9'}
+2,timber basin contractors llc,timber basin contractors llc,{'timber basin contractors'}
+2,timber service co,timber service co,{'timber service company'}
+2,tree top ranches,tree top ranches,{'tree top ranch'}
+2,umatilla basin watershed council,umatilla basin watershed council,"{'tillamook bay watershed council', 'walla walla basin watershed council', 'umatilla basin watershed foundation'}"
+2,umatilla county weed department,umatilla county weed department,"{'umatilla county road department', 'wallowa county weed department', 'wasco county weed department', 'sherman county weed department', 'gilliam county weed department'}"
+2,van eck forest foundation,van eck forest foundation,{'fred van eck forest foundation'}
+2,volunteer,volunteer,{'volunteers'}
+2,wahl ranches co,wahl ranches co,"{'wahl 3 ranch', 'wahl ranches llc'}"
+2,walla walla basin watershed council,walla walla basin watershed council,"{'umatilla basin watershed council', 'walla walla basin watershed foundation'}"
+2,walla walla county watershed planning,walla walla county watershed planning,"{'walla walla watershed foundation', 'walla walla watershed planning'}"
+2,wallowa county vegetation department,wallowa county vegetation department,{'wallowa county public works vegetation department'}
+2,wallowa county weed department,wallowa county weed department,"{'umatilla county weed department', 'gilliam county weed department', 'wasco county weed department'}"
+2,wampler ranches llc,wampler ranches llc,"{'wahl ranches llc', 'wampler ranches'}"
+2,weedman ranches inc,weedman ranches inc,{'weedman ranch'}
+2,west family ranch llc,west family ranch llc,"{'vincent family ranches llc', 'west family ranch'}"
+2,westbrook timber,westbrook timber,{'westbrook land timber'}
+2,western rivers conservancy,western rivers conservancy,{'western rivers land conservancy'}
+2,white butte ranch llc,white butte ranch llc,{'white butte ranch'}
+2,whitewater ranch llc,whitewater ranch llc,{'whitewater ranch'}
+2,willamette habitat restoration fund,willamette habitat restoration fund,"{'willamette restoration initiative', 'willamette habitat restoration'}"
+2,wolfe ranch,wolfe ranch,{'wolfe ranch inc'}
+3,contractor,contractor,{'contractors'}
+3,local business,local business,{'local businesses'}
+3,c valentine constructing inc,c valentine constructing inc,{'valentine construction inc'}
+3,golden valley farms east,golden valley farms east,{'golden valley farms'}
+3,nestucca tree farm llc c o hancock forest management,nestucca tree farm llc c o hancock forest management,{'nestucca tree farm c o hancock forest management gates tree farm'}
+3,nestucca valley school district and students,nestucca valley school district and students,{'nestucca valley school district and teachers'}
+3,nestucca valley school district and teachers,nestucca valley school district and teachers,{'nestucca valley school district and students'}
+3,northwest oregon restoration partnership,northwest oregon restoration partnership,{'northern oregon watershed restoration partnership'}
+3,pacific west timber company llc,pacific west timber company llc,{'pacific west timber llc'}
+3,pacificorporation,pacificorporation,{'pacificorporation energy'}
+3,r m knox sons inc,r m knox sons inc,{'r m knox sons'}
+3,umpqua fishermen s association,umpqua fishermen s association,{'umpqua flyfishers association'}
+3,buchler ranch,buchler ranch,"{'bunch ranch', 'buhler ranch', 'butler ranches'}"
+3,buhler ranch,buhler ranch,"{'kuhl ranch', 'bush ranch', 'butler ranches', 'buchler ranch'}"
+3,burnt river weed district board of directors,burnt river weed district board of directors,{'upper burnt river weed control district board of directors'}
+3,coast fork willamette watershed council,coast fork willamette watershed council,{'middle fork willamette watershed council'}
+3,drainage district,drainage district,"{'libby drainage district', 'larson drainage district'}"
+3,hockema hockema construction,hockema hockema construction,{'john hockema construction'}
+3,j smith farm,j smith farm,{'smith farms'}
+3,j smith ranch,j smith ranch,"{'m smith ranches', 'm smith ranch'}"
+3,jefferson county road department,jefferson county road department,"{'malheur county road department', 'lake county road department', 'grant county road department', 'linn county road department', 'lincoln county road department', 'lane county road department'}"
+3,john hockema construction,john hockema construction,"{'bob hockema construction', 'hockema hockema construction'}"
+3,lm cattle co,lm cattle co,{'lemmon cattle co'}
+3,lockhart ranches,lockhart ranches,{'cape lockhart ranches'}
+3,marys river watershed council,marys river watershed council,"{'silver lake watershed council', 'mosier watershed council', 'malheur watershed council', 'crooked river watershed council'}"
+3,misc elementary school,misc elementary school,"{'mckinley elementary school', 'nestucca elementary school', 'helman elementary school'}"
+3,monument high school,monument high school,{'monument schools'}
+3,monument schools,monument schools,{'monument high school'}
+3,nehalem watershed council,nehalem watershed council,"{'lower nehalem watershed council', 'rickreall watershed council', 'owyhee watershed council', 'malheur watershed council', 'necanicum watershed council', 'elk sixes watershed council', 'nestucca watershed council', 'upper nehalem watershed council'}"
+3,neighborhood association,neighborhood association,{'grand oaks neighborhood association'}
+3,nestucca valley elementary,nestucca valley elementary,{'nestucca elementary school'}
+3,north fork falls ranch,north fork falls ranch,{'north fork ranch'}
+3,northwest natives,northwest natives,{'pacific northwest natives'}
+3,other federal participant,other federal participant,{'other participant'}
+3,other participant,other participant,"{'other state participant', 'other federal participant'}"
+3,other state participant,other state participant,{'other participant'}
+3,oweb council capacity match,oweb council capacity match,{'oweb council capacity match 2'}
+3,oweb council capacity match 2,oweb council capacity match 2,{'oweb council capacity match'}
+3,pacific northwest natives,pacific northwest natives,{'northwest natives'}
+3,planting volunteers,planting volunteers,{'volunteers planting'}
+3,pringle creek watershed council,pringle creek watershed council,"{'trout creek watershed council', 'little butte creek watershed council', 'deep creek watershed council', 'evans creek watershed council', 'salmon drift creek watershed council', 'ecola creek watershed council', 'crooked river watershed council', 'fairview creek watershed council', 'floras creek watershed council', 'johnson creek watershed council', 'tryon creek watershed council', 'elk creek watershed council'}"
+3,private companies,private companies,{'private parties'}
+3,private industrial public log donations,private industrial public log donations,{'private non industrial public log donations'}
+3,private landowner buckshot location,private landowner buckshot location,"{'private landowner h 8 location', 'private landowner haguewood location'}"
+3,private landowner h 8 location,private landowner h 8 location,"{'private landowner buckshot location', 'private landowner haguewood location'}"
+3,private landowner haguewood location,private landowner haguewood location,"{'private landowner buckshot location', 'private landowner h 8 location'}"
+3,private landowner property 1,private landowner property 1,"{'private landowner 1', 'private landowner property 2'}"
+3,private landowner property 2,private landowner property 2,"{'private landowner 2', 'private landowner property 1'}"
+3,private landowners multiple 11,private landowners multiple 11,{'private landowners multiple'}
+3,private non industrial public log donations,private non industrial public log donations,{'private industrial public log donations'}
+3,private parties,private parties,{'private companies'}
+3,salem audubon society,salem audubon society,{'audubon society'}
+3,sandy river basin watershed council,sandy river basin watershed council,"{'sandy river watershed council', 'seven basins watershed council'}"
+3,sandy river watershed council,sandy river watershed council,"{'rogue river watershed council', 'sandy river basin watershed council', 'tualatin river watershed council', 'smith river watershed council'}"
+3,school district 9,school district 9,"{'adrian school district', 'condon school district'}"
+3,sfi volunteers,sfi volunteers,"{'step volunteers', 'volunteers misc', 'volunteers'}"
+3,smith family farms,smith family farms,"{'fluitt family farms', 'kester family farms'}"
+3,smith family ranch,smith family ranch,"{'m smith ranch', 'west family ranch'}"
+3,smith farms,smith farms,"{'smith seed farms', 'j smith farm'}"
+3,south board of control irrigation district landowners,south board of control irrigation district landowners,{'south board of control irrigation district'}
+3,south fork john day watershed council,south fork john day watershed council,"{'upper south fork john day watershed council', 'mid john day watershed council', 'north fork john day watershed council', 'upper south fork john day river watershed council'}"
+3,step volunteer,step volunteer,"{'student volunteers', 'step volunteers'}"
+3,step volunteers,step volunteers,"{'student volunteers', 'step volunteer', 'sfi volunteers'}"
+3,student volunteers,student volunteers,"{'step volunteers', 'step volunteer'}"
+3,upper burnt river weed control district board of directors,upper burnt river weed control district board of directors,{'burnt river weed district board of directors'}
+3,upper deschutes watershed council,upper deschutes watershed council,"{'middle deschutes watershed council', 'upper rogue watershed council', 'deschutes county watershed council', 'upper nehalem watershed council', 'upper sycan watershed council'}"
+3,upper nehalem watershed council,upper nehalem watershed council,"{'lower nehalem watershed council', 'malheur watershed council', 'upper deschutes watershed council', 'upper rogue watershed council', 'upper sycan watershed council', 'nehalem watershed council'}"
+3,upper rogue watershed association,upper rogue watershed association,"{'volunteers upper rogue watershed association', 'upper rogue watershed council'}"
+3,upper rogue watershed council,upper rogue watershed council,"{'upper deschutes watershed council', 'upper nehalem watershed council', 'upper sycan watershed council', 'upper rogue watershed association'}"
+3,upper south fork john day river watershed council,upper south fork john day river watershed council,"{'upper south fork john day watershed council', 'north fork john day watershed council', 'south fork john day watershed council'}"
+3,upper south fork john day watershed council,upper south fork john day watershed council,"{'south fork john day watershed council', 'north fork john day watershed council', 'upper south fork john day river watershed council'}"
+3,upper sycan watershed council,upper sycan watershed council,"{'upper deschutes watershed council', 'upper rogue watershed council', 'upper nehalem watershed council'}"
+3,various community volunteers,various community volunteers,"{'volunteers community volunteers', 'community volunteers', 'volunteers community'}"
+3,various volunteer groups,various volunteer groups,{'various volunteers'}
+3,various volunteers,various volunteers,"{'volunteers americorps', 'various volunteer groups'}"
+3,volunteers community,volunteers community,"{'council volunteers', 'various community volunteers', 'community volunteers'}"
+3,volunteers community volunteers,volunteers community volunteers,"{'volunteers crbc volunteers', 'various community volunteers'}"
+3,volunteers misc,volunteers misc,"{'sfi volunteers', 'volunteers srbwc'}"
+3,volunteers planting,volunteers planting,{'planting volunteers'}
+3,volunteers srbwc,volunteers srbwc,{'volunteers misc'}
+3,volunteers youth watershed council,volunteers youth watershed council,{'volunteers sweet home youth watershed council'}
