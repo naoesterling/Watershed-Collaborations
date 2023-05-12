@@ -1,5 +1,5 @@
-# ** Unpacking and Mapping Collaboration Data: Oregon Watersheds**
-*Creating a Toolkit for Exploring Project-Level Data*
+# Unpacking and Mapping Collaboration Data: Oregon Watersheds
+**Creating a Toolkit for Exploring Project-Level Data**
 
 ## Summary
 The aim of this project is to provide a wide audience - citizens, policymakers, and researchers - with tools that they can use to explore, understand, and visualize data on watershed collaborations in the state of Oregon. The project’s repository contains a mix of textual data files (i.e., Microsoft Excel workbooks and CSVs), geodata files (i.e., spatial data packages), and Python scripts that were used to create an interactive map in Tableau Public. In addition to use of this map, the repository components can also be used by others together, and at times, individually to organize publicly-available collaboration data in self-designed spreadsheets as well as to create unique maps tailored to their own interests. The remainder of the sections are as follows: Section 1 contains a primer on the collaboration data engaged with in this project, Section 2 reviews the sources for the project’s data files, Section 3 describes the individual Python Scripts developed for this project, the order in which these scripts should be run in order to construct the interactive map, and the outputs of each script, Section 4 discusses the interactive map available for use on Tableau Public, and Section 5 outlines next steps for further refinement of this project and its repository.
